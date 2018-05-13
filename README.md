@@ -1,0 +1,2 @@
+# MultilingualXamarin
+Xamarinの多言語表示対応アプリ
